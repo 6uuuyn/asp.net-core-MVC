@@ -1,0 +1,417 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\yulun\\Desktop\\1111760\u7DB2\u969B\u7DB2\u8DEF\u671F\u672B\u5C08\u6848\\1111760\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9BA4223E-F19C-46E5-BBC2-01E027620EBC}|1111760\\1111760.csproj|c:\\users\\yulun\\desktop\\1111760\u7DB2\u969B\u7DB2\u8DEF\u671F\u672B\u5C08\u6848\\1111760\\1111760\\views\\users\\page2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9BA4223E-F19C-46E5-BBC2-01E027620EBC}|1111760\\1111760.csproj|solutionrelative:1111760\\views\\users\\page2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BA4223E-F19C-46E5-BBC2-01E027620EBC}|1111760\\1111760.csproj|c:\\users\\yulun\\desktop\\1111760\u7DB2\u969B\u7DB2\u8DEF\u671F\u672B\u5C08\u6848\\1111760\\1111760\\views\\users\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9BA4223E-F19C-46E5-BBC2-01E027620EBC}|1111760\\1111760.csproj|solutionrelative:1111760\\views\\users\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BA4223E-F19C-46E5-BBC2-01E027620EBC}|1111760\\1111760.csproj|c:\\users\\yulun\\desktop\\1111760\u7DB2\u969B\u7DB2\u8DEF\u671F\u672B\u5C08\u6848\\1111760\\1111760\\views\\users\\page1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9BA4223E-F19C-46E5-BBC2-01E027620EBC}|1111760\\1111760.csproj|solutionrelative:1111760\\views\\users\\page1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BA4223E-F19C-46E5-BBC2-01E027620EBC}|1111760\\1111760.csproj|c:\\users\\yulun\\desktop\\1111760\u7DB2\u969B\u7DB2\u8DEF\u671F\u672B\u5C08\u6848\\1111760\\1111760\\views\\users\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9BA4223E-F19C-46E5-BBC2-01E027620EBC}|1111760\\1111760.csproj|solutionrelative:1111760\\views\\users\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BA4223E-F19C-46E5-BBC2-01E027620EBC}|1111760\\1111760.csproj|c:\\users\\yulun\\desktop\\1111760\u7DB2\u969B\u7DB2\u8DEF\u671F\u672B\u5C08\u6848\\1111760\\1111760\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BA4223E-F19C-46E5-BBC2-01E027620EBC}|1111760\\1111760.csproj|solutionrelative:1111760\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BA4223E-F19C-46E5-BBC2-01E027620EBC}|1111760\\1111760.csproj|c:\\users\\yulun\\desktop\\1111760\u7DB2\u969B\u7DB2\u8DEF\u671F\u672B\u5C08\u6848\\1111760\\1111760\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BA4223E-F19C-46E5-BBC2-01E027620EBC}|1111760\\1111760.csproj|solutionrelative:1111760\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BA4223E-F19C-46E5-BBC2-01E027620EBC}|1111760\\1111760.csproj|c:\\users\\yulun\\desktop\\1111760\u7DB2\u969B\u7DB2\u8DEF\u671F\u672B\u5C08\u6848\\1111760\\1111760\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9BA4223E-F19C-46E5-BBC2-01E027620EBC}|1111760\\1111760.csproj|solutionrelative:1111760\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BA4223E-F19C-46E5-BBC2-01E027620EBC}|1111760\\1111760.csproj|c:\\users\\yulun\\desktop\\1111760\u7DB2\u969B\u7DB2\u8DEF\u671F\u672B\u5C08\u6848\\1111760\\1111760\\models\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BA4223E-F19C-46E5-BBC2-01E027620EBC}|1111760\\1111760.csproj|solutionrelative:1111760\\models\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BA4223E-F19C-46E5-BBC2-01E027620EBC}|1111760\\1111760.csproj|c:\\users\\yulun\\desktop\\1111760\u7DB2\u969B\u7DB2\u8DEF\u671F\u672B\u5C08\u6848\\1111760\\1111760\\views\\users\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9BA4223E-F19C-46E5-BBC2-01E027620EBC}|1111760\\1111760.csproj|solutionrelative:1111760\\views\\users\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BA4223E-F19C-46E5-BBC2-01E027620EBC}|1111760\\1111760.csproj|c:\\users\\yulun\\desktop\\1111760\u7DB2\u969B\u7DB2\u8DEF\u671F\u672B\u5C08\u6848\\1111760\\1111760\\views\\users\\logincheck.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9BA4223E-F19C-46E5-BBC2-01E027620EBC}|1111760\\1111760.csproj|solutionrelative:1111760\\views\\users\\logincheck.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BA4223E-F19C-46E5-BBC2-01E027620EBC}|1111760\\1111760.csproj|c:\\users\\yulun\\desktop\\1111760\u7DB2\u969B\u7DB2\u8DEF\u671F\u672B\u5C08\u6848\\1111760\\1111760\\views\\users\\selectname.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9BA4223E-F19C-46E5-BBC2-01E027620EBC}|1111760\\1111760.csproj|solutionrelative:1111760\\views\\users\\selectname.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BA4223E-F19C-46E5-BBC2-01E027620EBC}|1111760\\1111760.csproj|c:\\users\\yulun\\desktop\\1111760\u7DB2\u969B\u7DB2\u8DEF\u671F\u672B\u5C08\u6848\\1111760\\1111760\\views\\users\\selectquery.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9BA4223E-F19C-46E5-BBC2-01E027620EBC}|1111760\\1111760.csproj|solutionrelative:1111760\\views\\users\\selectquery.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BA4223E-F19C-46E5-BBC2-01E027620EBC}|1111760\\1111760.csproj|c:\\users\\yulun\\desktop\\1111760\u7DB2\u969B\u7DB2\u8DEF\u671F\u672B\u5C08\u6848\\1111760\\1111760\\views\\users\\query.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9BA4223E-F19C-46E5-BBC2-01E027620EBC}|1111760\\1111760.csproj|solutionrelative:1111760\\views\\users\\query.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BA4223E-F19C-46E5-BBC2-01E027620EBC}|1111760\\1111760.csproj|c:\\users\\yulun\\desktop\\1111760\u7DB2\u969B\u7DB2\u8DEF\u671F\u672B\u5C08\u6848\\1111760\\1111760\\views\\users\\inputquery.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9BA4223E-F19C-46E5-BBC2-01E027620EBC}|1111760\\1111760.csproj|solutionrelative:1111760\\views\\users\\inputquery.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BA4223E-F19C-46E5-BBC2-01E027620EBC}|1111760\\1111760.csproj|c:\\users\\yulun\\desktop\\1111760\u7DB2\u969B\u7DB2\u8DEF\u671F\u672B\u5C08\u6848\\1111760\\1111760\\views\\users\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9BA4223E-F19C-46E5-BBC2-01E027620EBC}|1111760\\1111760.csproj|solutionrelative:1111760\\views\\users\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BA4223E-F19C-46E5-BBC2-01E027620EBC}|1111760\\1111760.csproj|c:\\users\\yulun\\desktop\\1111760\u7DB2\u969B\u7DB2\u8DEF\u671F\u672B\u5C08\u6848\\1111760\\1111760\\views\\users\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9BA4223E-F19C-46E5-BBC2-01E027620EBC}|1111760\\1111760.csproj|solutionrelative:1111760\\views\\users\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BA4223E-F19C-46E5-BBC2-01E027620EBC}|1111760\\1111760.csproj|c:\\users\\yulun\\desktop\\1111760\u7DB2\u969B\u7DB2\u8DEF\u671F\u672B\u5C08\u6848\\1111760\\1111760\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9BA4223E-F19C-46E5-BBC2-01E027620EBC}|1111760\\1111760.csproj|solutionrelative:1111760\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BA4223E-F19C-46E5-BBC2-01E027620EBC}|1111760\\1111760.csproj|c:\\users\\yulun\\desktop\\1111760\u7DB2\u969B\u7DB2\u8DEF\u671F\u672B\u5C08\u6848\\1111760\\1111760\\views\\users\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9BA4223E-F19C-46E5-BBC2-01E027620EBC}|1111760\\1111760.csproj|solutionrelative:1111760\\views\\users\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BA4223E-F19C-46E5-BBC2-01E027620EBC}|1111760\\1111760.csproj|c:\\users\\yulun\\desktop\\1111760\u7DB2\u969B\u7DB2\u8DEF\u671F\u672B\u5C08\u6848\\1111760\\1111760\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9BA4223E-F19C-46E5-BBC2-01E027620EBC}|1111760\\1111760.csproj|solutionrelative:1111760\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BA4223E-F19C-46E5-BBC2-01E027620EBC}|1111760\\1111760.csproj|c:\\users\\yulun\\desktop\\1111760\u7DB2\u969B\u7DB2\u8DEF\u671F\u672B\u5C08\u6848\\1111760\\1111760\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9BA4223E-F19C-46E5-BBC2-01E027620EBC}|1111760\\1111760.csproj|solutionrelative:1111760\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BA4223E-F19C-46E5-BBC2-01E027620EBC}|1111760\\1111760.csproj|c:\\users\\yulun\\desktop\\1111760\u7DB2\u969B\u7DB2\u8DEF\u671F\u672B\u5C08\u6848\\1111760\\1111760\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BA4223E-F19C-46E5-BBC2-01E027620EBC}|1111760\\1111760.csproj|solutionrelative:1111760\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BA4223E-F19C-46E5-BBC2-01E027620EBC}|1111760\\1111760.csproj|c:\\users\\yulun\\desktop\\1111760\u7DB2\u969B\u7DB2\u8DEF\u671F\u672B\u5C08\u6848\\1111760\\1111760\\data\\cmscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BA4223E-F19C-46E5-BBC2-01E027620EBC}|1111760\\1111760.csproj|solutionrelative:1111760\\data\\cmscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BA4223E-F19C-46E5-BBC2-01E027620EBC}|1111760\\1111760.csproj|c:\\users\\yulun\\desktop\\1111760\u7DB2\u969B\u7DB2\u8DEF\u671F\u672B\u5C08\u6848\\1111760\\1111760\\migrations\\20240603135213_initialdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BA4223E-F19C-46E5-BBC2-01E027620EBC}|1111760\\1111760.csproj|solutionrelative:1111760\\migrations\\20240603135213_initialdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BA4223E-F19C-46E5-BBC2-01E027620EBC}|1111760\\1111760.csproj|c:\\users\\yulun\\desktop\\1111760\u7DB2\u969B\u7DB2\u8DEF\u671F\u672B\u5C08\u6848\\1111760\\1111760\\migrations\\cmscontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BA4223E-F19C-46E5-BBC2-01E027620EBC}|1111760\\1111760.csproj|solutionrelative:1111760\\migrations\\cmscontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/140.138.144.66_SQL1422/1122netdbB/1122netdbB/SqlTable/dbo.TableFinalExams1111760.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\yulun\\Desktop\\1111760\u7DB2\u969B\u7DB2\u8DEF\u671F\u672B\u5C08\u6848\\1111760\\1111760\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "1111760\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\yulun\\Desktop\\1111760\u7DB2\u969B\u7DB2\u8DEF\u671F\u672B\u5C08\u6848\\1111760\\1111760\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "1111760\\Controllers\\UsersController.cs",
+              "ViewState": "AQIAAEoBAAAAAAAAAAAAAFQBAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T13:27:46.492Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\yulun\\Desktop\\1111760\u7DB2\u969B\u7DB2\u8DEF\u671F\u672B\u5C08\u6848\\1111760\\1111760\\Program.cs",
+              "RelativeDocumentMoniker": "1111760\\Program.cs",
+              "ToolTip": "C:\\Users\\yulun\\Desktop\\1111760\u7DB2\u969B\u7DB2\u8DEF\u671F\u672B\u5C08\u6848\\1111760\\1111760\\Program.cs",
+              "RelativeToolTip": "1111760\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T16:50:50.085Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\yulun\\Desktop\\1111760\u7DB2\u969B\u7DB2\u8DEF\u671F\u672B\u5C08\u6848\\1111760\\1111760\\appsettings.json",
+              "RelativeDocumentMoniker": "1111760\\appsettings.json",
+              "ToolTip": "C:\\Users\\yulun\\Desktop\\1111760\u7DB2\u969B\u7DB2\u8DEF\u671F\u672B\u5C08\u6848\\1111760\\1111760\\appsettings.json",
+              "RelativeToolTip": "1111760\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-16T16:50:09.462Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\yulun\\Desktop\\1111760\u7DB2\u969B\u7DB2\u8DEF\u671F\u672B\u5C08\u6848\\1111760\\1111760\\Models\\Login.cs",
+              "RelativeDocumentMoniker": "1111760\\Models\\Login.cs",
+              "ToolTip": "C:\\Users\\yulun\\Desktop\\1111760\u7DB2\u969B\u7DB2\u8DEF\u671F\u672B\u5C08\u6848\\1111760\\1111760\\Models\\Login.cs",
+              "RelativeToolTip": "1111760\\Models\\Login.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T16:43:23.787Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Logout.cshtml",
+              "DocumentMoniker": "C:\\Users\\yulun\\Desktop\\1111760\u7DB2\u969B\u7DB2\u8DEF\u671F\u672B\u5C08\u6848\\1111760\\1111760\\Views\\Users\\Logout.cshtml",
+              "RelativeDocumentMoniker": "1111760\\Views\\Users\\Logout.cshtml",
+              "ToolTip": "C:\\Users\\yulun\\Desktop\\1111760\u7DB2\u969B\u7DB2\u8DEF\u671F\u672B\u5C08\u6848\\1111760\\1111760\\Views\\Users\\Logout.cshtml",
+              "RelativeToolTip": "1111760\\Views\\Users\\Logout.cshtml",
+              "ViewState": "AQIAACMAAAAAAAAAAAAswD4AAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-05T09:15:51.361Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\yulun\\Desktop\\1111760\u7DB2\u969B\u7DB2\u8DEF\u671F\u672B\u5C08\u6848\\1111760\\1111760\\Views\\Users\\Index.cshtml",
+              "RelativeDocumentMoniker": "1111760\\Views\\Users\\Index.cshtml",
+              "ToolTip": "C:\\Users\\yulun\\Desktop\\1111760\u7DB2\u969B\u7DB2\u8DEF\u671F\u672B\u5C08\u6848\\1111760\\1111760\\Views\\Users\\Index.cshtml",
+              "RelativeToolTip": "1111760\\Views\\Users\\Index.cshtml",
+              "ViewState": "AQIAAE4AAAAAAAAAAAAAAGIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-03T14:30:46.377Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\yulun\\Desktop\\1111760\u7DB2\u969B\u7DB2\u8DEF\u671F\u672B\u5C08\u6848\\1111760\\1111760\\Views\\Users\\Login.cshtml",
+              "RelativeDocumentMoniker": "1111760\\Views\\Users\\Login.cshtml",
+              "ToolTip": "C:\\Users\\yulun\\Desktop\\1111760\u7DB2\u969B\u7DB2\u8DEF\u671F\u672B\u5C08\u6848\\1111760\\1111760\\Views\\Users\\Login.cshtml",
+              "RelativeToolTip": "1111760\\Views\\Users\\Login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-04T09:26:52.391Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Page1.cshtml",
+              "DocumentMoniker": "C:\\Users\\yulun\\Desktop\\1111760\u7DB2\u969B\u7DB2\u8DEF\u671F\u672B\u5C08\u6848\\1111760\\1111760\\Views\\Users\\Page1.cshtml",
+              "RelativeDocumentMoniker": "1111760\\Views\\Users\\Page1.cshtml",
+              "ToolTip": "C:\\Users\\yulun\\Desktop\\1111760\u7DB2\u969B\u7DB2\u8DEF\u671F\u672B\u5C08\u6848\\1111760\\1111760\\Views\\Users\\Page1.cshtml",
+              "RelativeToolTip": "1111760\\Views\\Users\\Page1.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-05T10:06:10.288Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Page2.cshtml",
+              "DocumentMoniker": "C:\\Users\\yulun\\Desktop\\1111760\u7DB2\u969B\u7DB2\u8DEF\u671F\u672B\u5C08\u6848\\1111760\\1111760\\Views\\Users\\Page2.cshtml",
+              "RelativeDocumentMoniker": "1111760\\Views\\Users\\Page2.cshtml",
+              "ToolTip": "C:\\Users\\yulun\\Desktop\\1111760\u7DB2\u969B\u7DB2\u8DEF\u671F\u672B\u5C08\u6848\\1111760\\1111760\\Views\\Users\\Page2.cshtml",
+              "RelativeToolTip": "1111760\\Views\\Users\\Page2.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-05T10:10:36.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LoginCheck.cshtml",
+              "DocumentMoniker": "C:\\Users\\yulun\\Desktop\\1111760\u7DB2\u969B\u7DB2\u8DEF\u671F\u672B\u5C08\u6848\\1111760\\1111760\\Views\\Users\\LoginCheck.cshtml",
+              "RelativeDocumentMoniker": "1111760\\Views\\Users\\LoginCheck.cshtml",
+              "ToolTip": "C:\\Users\\yulun\\Desktop\\1111760\u7DB2\u969B\u7DB2\u8DEF\u671F\u672B\u5C08\u6848\\1111760\\1111760\\Views\\Users\\LoginCheck.cshtml",
+              "RelativeToolTip": "1111760\\Views\\Users\\LoginCheck.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-16T18:00:19.817Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SelectName.cshtml",
+              "DocumentMoniker": "C:\\Users\\yulun\\Desktop\\1111760\u7DB2\u969B\u7DB2\u8DEF\u671F\u672B\u5C08\u6848\\1111760\\1111760\\Views\\Users\\SelectName.cshtml",
+              "RelativeDocumentMoniker": "1111760\\Views\\Users\\SelectName.cshtml",
+              "ToolTip": "C:\\Users\\yulun\\Desktop\\1111760\u7DB2\u969B\u7DB2\u8DEF\u671F\u672B\u5C08\u6848\\1111760\\1111760\\Views\\Users\\SelectName.cshtml",
+              "RelativeToolTip": "1111760\\Views\\Users\\SelectName.cshtml",
+              "ViewState": "AQIAACQAAAAAAAAAAAAswDkAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-16T17:56:21.397Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SelectQuery.cshtml",
+              "DocumentMoniker": "C:\\Users\\yulun\\Desktop\\1111760\u7DB2\u969B\u7DB2\u8DEF\u671F\u672B\u5C08\u6848\\1111760\\1111760\\Views\\Users\\SelectQuery.cshtml",
+              "RelativeDocumentMoniker": "1111760\\Views\\Users\\SelectQuery.cshtml",
+              "ToolTip": "C:\\Users\\yulun\\Desktop\\1111760\u7DB2\u969B\u7DB2\u8DEF\u671F\u672B\u5C08\u6848\\1111760\\1111760\\Views\\Users\\SelectQuery.cshtml",
+              "RelativeToolTip": "1111760\\Views\\Users\\SelectQuery.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-16T17:55:37.799Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Query.cshtml",
+              "DocumentMoniker": "C:\\Users\\yulun\\Desktop\\1111760\u7DB2\u969B\u7DB2\u8DEF\u671F\u672B\u5C08\u6848\\1111760\\1111760\\Views\\Users\\Query.cshtml",
+              "RelativeDocumentMoniker": "1111760\\Views\\Users\\Query.cshtml",
+              "ToolTip": "C:\\Users\\yulun\\Desktop\\1111760\u7DB2\u969B\u7DB2\u8DEF\u671F\u672B\u5C08\u6848\\1111760\\1111760\\Views\\Users\\Query.cshtml",
+              "RelativeToolTip": "1111760\\Views\\Users\\Query.cshtml",
+              "ViewState": "AQIAACwAAAAAAAAAAAAswEcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-05T18:36:11.174Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "InputQuery.cshtml",
+              "DocumentMoniker": "C:\\Users\\yulun\\Desktop\\1111760\u7DB2\u969B\u7DB2\u8DEF\u671F\u672B\u5C08\u6848\\1111760\\1111760\\Views\\Users\\InputQuery.cshtml",
+              "RelativeDocumentMoniker": "1111760\\Views\\Users\\InputQuery.cshtml",
+              "ToolTip": "C:\\Users\\yulun\\Desktop\\1111760\u7DB2\u969B\u7DB2\u8DEF\u671F\u672B\u5C08\u6848\\1111760\\1111760\\Views\\Users\\InputQuery.cshtml",
+              "RelativeToolTip": "1111760\\Views\\Users\\InputQuery.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-05T18:36:16.468Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\yulun\\Desktop\\1111760\u7DB2\u969B\u7DB2\u8DEF\u671F\u672B\u5C08\u6848\\1111760\\1111760\\Views\\Users\\Delete.cshtml",
+              "RelativeDocumentMoniker": "1111760\\Views\\Users\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\yulun\\Desktop\\1111760\u7DB2\u969B\u7DB2\u8DEF\u671F\u672B\u5C08\u6848\\1111760\\1111760\\Views\\Users\\Delete.cshtml",
+              "RelativeToolTip": "1111760\\Views\\Users\\Delete.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAswC0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-05T15:26:47.662Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\yulun\\Desktop\\1111760\u7DB2\u969B\u7DB2\u8DEF\u671F\u672B\u5C08\u6848\\1111760\\1111760\\Views\\Users\\Edit.cshtml",
+              "RelativeDocumentMoniker": "1111760\\Views\\Users\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\yulun\\Desktop\\1111760\u7DB2\u969B\u7DB2\u8DEF\u671F\u672B\u5C08\u6848\\1111760\\1111760\\Views\\Users\\Edit.cshtml",
+              "RelativeToolTip": "1111760\\Views\\Users\\Edit.cshtml",
+              "ViewState": "AQIAABkAAAAAAAAAAAAswDEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-16T17:32:49.536Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\yulun\\Desktop\\1111760\u7DB2\u969B\u7DB2\u8DEF\u671F\u672B\u5C08\u6848\\1111760\\1111760\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "1111760\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\yulun\\Desktop\\1111760\u7DB2\u969B\u7DB2\u8DEF\u671F\u672B\u5C08\u6848\\1111760\\1111760\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "1111760\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-16T16:46:21.99Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\yulun\\Desktop\\1111760\u7DB2\u969B\u7DB2\u8DEF\u671F\u672B\u5C08\u6848\\1111760\\1111760\\Views\\Users\\Create.cshtml",
+              "RelativeDocumentMoniker": "1111760\\Views\\Users\\Create.cshtml",
+              "ToolTip": "C:\\Users\\yulun\\Desktop\\1111760\u7DB2\u969B\u7DB2\u8DEF\u671F\u672B\u5C08\u6848\\1111760\\1111760\\Views\\Users\\Create.cshtml",
+              "RelativeToolTip": "1111760\\Views\\Users\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-05T15:26:48.845Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\yulun\\Desktop\\1111760\u7DB2\u969B\u7DB2\u8DEF\u671F\u672B\u5C08\u6848\\1111760\\1111760\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "1111760\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\yulun\\Desktop\\1111760\u7DB2\u969B\u7DB2\u8DEF\u671F\u672B\u5C08\u6848\\1111760\\1111760\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "1111760\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-16T16:50:06.434Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\yulun\\Desktop\\1111760\u7DB2\u969B\u7DB2\u8DEF\u671F\u672B\u5C08\u6848\\1111760\\1111760\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "1111760\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\yulun\\Desktop\\1111760\u7DB2\u969B\u7DB2\u8DEF\u671F\u672B\u5C08\u6848\\1111760\\1111760\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "1111760\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-16T16:50:00.914Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "20240603135213_InitialDB.cs",
+              "DocumentMoniker": "C:\\Users\\yulun\\Desktop\\1111760\u7DB2\u969B\u7DB2\u8DEF\u671F\u672B\u5C08\u6848\\1111760\\1111760\\Migrations\\20240603135213_InitialDB.cs",
+              "RelativeDocumentMoniker": "1111760\\Migrations\\20240603135213_InitialDB.cs",
+              "ToolTip": "C:\\Users\\yulun\\Desktop\\1111760\u7DB2\u969B\u7DB2\u8DEF\u671F\u672B\u5C08\u6848\\1111760\\1111760\\Migrations\\20240603135213_InitialDB.cs",
+              "RelativeToolTip": "1111760\\Migrations\\20240603135213_InitialDB.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T16:40:55.806Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\yulun\\Desktop\\1111760\u7DB2\u969B\u7DB2\u8DEF\u671F\u672B\u5C08\u6848\\1111760\\1111760\\Models\\User.cs",
+              "RelativeDocumentMoniker": "1111760\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\yulun\\Desktop\\1111760\u7DB2\u969B\u7DB2\u8DEF\u671F\u672B\u5C08\u6848\\1111760\\1111760\\Models\\User.cs",
+              "RelativeToolTip": "1111760\\Models\\User.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAQwBwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T17:32:37.81Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "CmsContext.cs",
+              "DocumentMoniker": "C:\\Users\\yulun\\Desktop\\1111760\u7DB2\u969B\u7DB2\u8DEF\u671F\u672B\u5C08\u6848\\1111760\\1111760\\Data\\CmsContext.cs",
+              "RelativeDocumentMoniker": "1111760\\Data\\CmsContext.cs",
+              "ToolTip": "C:\\Users\\yulun\\Desktop\\1111760\u7DB2\u969B\u7DB2\u8DEF\u671F\u672B\u5C08\u6848\\1111760\\1111760\\Data\\CmsContext.cs",
+              "RelativeToolTip": "1111760\\Data\\CmsContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T09:40:17.327Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "CmsContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\yulun\\Desktop\\1111760\u7DB2\u969B\u7DB2\u8DEF\u671F\u672B\u5C08\u6848\\1111760\\1111760\\Migrations\\CmsContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "1111760\\Migrations\\CmsContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\yulun\\Desktop\\1111760\u7DB2\u969B\u7DB2\u8DEF\u671F\u672B\u5C08\u6848\\1111760\\1111760\\Migrations\\CmsContextModelSnapshot.cs",
+              "RelativeToolTip": "1111760\\Migrations\\CmsContextModelSnapshot.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T16:40:42.019Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "dbo.TableFinalExams1111760 [\u8CC7\u6599]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/140.138.144.66_SQL1422/1122netdbB/1122netdbB/SqlTable/dbo.TableFinalExams1111760.sql",
+              "ToolTip": "dbo.TableFinalExams1111760 [\u8CC7\u6599]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-06-16T16:26:40.414Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

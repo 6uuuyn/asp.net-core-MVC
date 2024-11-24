@@ -1,0 +1,63 @@
+﻿@model _1111760.Models.Login;
+@{
+    ViewData["Title"] = "Logout";
+}
+
+
+@if (TempData["message"] != null)
+{
+    <script>alert('@TempData["message"]');</script>
+}
+
+
+@if (TempData["message"] != null)   //不是空的，有記號
+{
+    if (TempData["message"].ToString() == "Please Login!")
+    {
+        <script>alert('@TempData["message"]');</script>
+        //彈跳視窗
+        <h3>未登入，請先登入</h3>
+    }
+    else
+    {
+        <h3>@TempData["message"]</h3>
+    }
+}
+else
+{
+    <script>alert('@TempData["message"]');</script>
+    
+}
+
+
+<h1>Login</h1>
+
+<h8>請輸入帳號及密碼</h8>
+
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="LoginCheck">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="Account" class="control-label">Account:</label>
+                <input asp-for="Account" class="form-control" />
+                <span asp-validation-for="Account" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Password" class="control-label">Password:</label>
+                <input asp-for="Password" class="form-control" />
+                <span asp-validation-for="Password" class="text-danger"></span>
+            </div>
+            <br />
+            <div class="form-group">
+                <input type="submit" value="登入" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+<br />
+<br />
+<p>管理員:Account:member00/Password:0000</p>
+<br />
+<p>使用者:Account:member11/Password:1111</p>
+<br />

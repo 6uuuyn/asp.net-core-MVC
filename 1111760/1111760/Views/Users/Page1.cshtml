@@ -1,0 +1,25 @@
+﻿
+@{
+    ViewData["Title"] = "Page1";
+}
+
+<h1>Page1</h1>
+
+
+@if (TempData["message"] != null)   //不是空的，有記號
+{
+    if (TempData["message"].ToString() == "Please Login!")
+    {
+        <script>alert('@TempData["message"]');</script> //彈跳視窗
+        <h3>未登入，尚未登入 Session</h3>
+    }
+    else
+    {
+        <h3>@TempData["message"]</h3>
+    }
+}
+else
+{
+    <script>alert('@TempData["message"]');</script>
+    <h3>已登入，已寫入 Session</h3>
+}
